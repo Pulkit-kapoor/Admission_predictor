@@ -1,4 +1,4 @@
-# 🎓 Admission Prediction using Logistic Regression
+# 🎓 Admission Prediction using Linear Regression
 
 A machine learning web app to predict a student’s chance of getting admission to a university based on their profile.
 
