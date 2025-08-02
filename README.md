@@ -6,7 +6,7 @@ A machine learning web app to predict a student’s chance of getting admission 
 
 ## 🚀 Web App
 
-Try it here: [Live App on Streamlit](https://your-deployed-streamlit-url)
+Try it here: https://admissionpredictor-n2lr9bcqtoau9dsi53dllp.streamlit.app/
 
 ---
 
